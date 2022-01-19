@@ -12,7 +12,7 @@ img {
 }
 .topPage header {
   height: 90vh;
-  background: url(../images/00001.jpg) no-repeat center top/cover;
+  background: url(../00001.jpg) no-repeat center top/cover;
   padding-top: 50px;
   margin-bottom: 64px;
 }
